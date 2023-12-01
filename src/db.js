@@ -50,6 +50,7 @@ const {
   ShoppingCart,
   Tag,
   User,
+  Pagina
   //Rating_avg_book,
 } = sequelize.models;
 
